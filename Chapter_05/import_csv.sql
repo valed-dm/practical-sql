@@ -51,3 +51,39 @@ WHERE town = 'New Brillig';
 -- They’re handy for performing intermediary operations on data as part 
 -- of your processing pipeline; we’ll use one to add the county name 
 -- to the supervisor_salaries table as we import the CSV.
+
+CREATE TEMPORARY TABLE supervisor_salaries_temp 
+    (LIKE supervisor_salaries INCLUDING ALL);
+	
+COPY supervisor_salaries_temp (town, supervisor, salary)
+FROM '/Users/dmitrijvaledinskij/SQL/practical-sql-2-main/Chapter_05/supervisor_salaries.csv'
+WITH (FORMAT CSV, HEADER);
+
+INSERT INTO supervisor_salaries (town, county, supervisor, salary)
+SELECT town, 'Mills', supervisor, salary
+FROM supervisor_salaries_temp;
+
+DROP TABLE supervisor_salaries_temp;
+
+-- Listing 5-8: Exporting an entire table with COPY
+
+COPY us_counties_pop_est_2019
+TO '/Users/dmitrijvaledinskij/SQL/practical-sql-2-main/Chapter_05/us_counties_export.txt'
+WITH (FORMAT CSV, HEADER, DELIMITER '|');
+
+-- Listing 5-9: Exporting selected columns from a table with COPY
+
+COPY us_counties_pop_est_2019 
+    (county_name, internal_point_lat, internal_point_lon)
+TO '/Users/dmitrijvaledinskij/SQL/practical-sql-2-main/Chapter_05/us_counties_export.txt'
+WITH (FORMAT CSV, HEADER, DELIMITER '|');
+
+-- Listing 5-10: Exporting query results with COPY
+
+COPY (
+    SELECT county_name, state_name
+    FROM us_counties_pop_est_2019
+    WHERE county_name ILIKE '%mill%'
+     )
+TO '/Users/dmitrijvaledinskij/SQL/practical-sql-2-main/Chapter_05/us_counties_mil_export.txt'
+WITH (FORMAT CSV, HEADER, DELIMITER '|');
