@@ -1,0 +1,212 @@
+county_name|state_name
+Baldwin County|Alabama
+Calhoun County|Alabama
+Dale County|Alabama
+Dallas County|Alabama
+DeKalb County|Alabama
+Hale County|Alabama
+Lauderdale County|Alabama
+Marshall County|Alabama
+Talladega County|Alabama
+Tallapoosa County|Alabama
+Tuscaloosa County|Alabama
+Walker County|Alabama
+Aleutians East Borough|Alaska
+Aleutians West Census Area|Alaska
+Anchorage Municipality|Alaska
+Denali Borough|Alaska
+Prince of Wales-Hyder Census Area|Alaska
+Skagway Municipality|Alaska
+Valdez-Cordova Census Area|Alaska
+Pinal County|Arizona
+Calhoun County|Arkansas
+Dallas County|Arkansas
+Saline County|Arkansas
+Alameda County|California
+Alpine County|California
+Calaveras County|California
+Imperial County|California
+Alamosa County|Colorado
+Hinsdale County|Colorado
+Mineral County|Colorado
+Alachua County|Florida
+Calhoun County|Florida
+Duval County|Florida
+Okaloosa County|Florida
+Palm Beach County|Florida
+Walton County|Florida
+Baldwin County|Georgia
+Calhoun County|Georgia
+DeKalb County|Georgia
+Hall County|Georgia
+Haralson County|Georgia
+Rockdale County|Georgia
+Spalding County|Georgia
+Talbot County|Georgia
+Taliaferro County|Georgia
+Tattnall County|Georgia
+Walker County|Georgia
+Walton County|Georgia
+Kalawao County|Hawaii
+Twin Falls County|Idaho
+Valley County|Idaho
+Alexander County|Illinois
+Calhoun County|Illinois
+DeKalb County|Illinois
+Gallatin County|Illinois
+Kendall County|Illinois
+LaSalle County|Illinois
+Marshall County|Illinois
+Saline County|Illinois
+Allen County|Indiana
+DeKalb County|Indiana
+Marshall County|Indiana
+Allamakee County|Iowa
+Calhoun County|Iowa
+Dallas County|Iowa
+Marshall County|Iowa
+Palo Alto County|Iowa
+Allen County|Kansas
+Marshall County|Kansas
+Saline County|Kansas
+Wallace County|Kansas
+Allen County|Kentucky
+Ballard County|Kentucky
+Caldwell County|Kentucky
+Calloway County|Kentucky
+Gallatin County|Kentucky
+Marshall County|Kentucky
+Metcalfe County|Kentucky
+Allen Parish|Louisiana
+Calcasieu Parish|Louisiana
+Caldwell Parish|Louisiana
+LaSalle Parish|Louisiana
+Waldo County|Maine
+Allegany County|Maryland
+Baltimore County|Maryland
+Calvert County|Maryland
+Talbot County|Maryland
+Baltimore city|Maryland
+Alcona County|Michigan
+Alger County|Michigan
+Allegan County|Michigan
+Alpena County|Michigan
+Calhoun County|Michigan
+Hillsdale County|Michigan
+Kalamazoo County|Michigan
+Kalkaska County|Michigan
+Montcalm County|Michigan
+Marshall County|Minnesota
+Alcorn County|Mississippi
+Attala County|Mississippi
+Calhoun County|Mississippi
+Lauderdale County|Mississippi
+Marshall County|Mississippi
+Tallahatchie County|Mississippi
+Walthall County|Mississippi
+Yalobusha County|Mississippi
+Caldwell County|Missouri
+Callaway County|Missouri
+Dallas County|Missouri
+DeKalb County|Missouri
+McDonald County|Missouri
+Ralls County|Missouri
+Saline County|Missouri
+Fallon County|Montana
+Gallatin County|Montana
+Golden Valley County|Montana
+Mineral County|Montana
+Ravalli County|Montana
+Valley County|Montana
+Buffalo County|Nebraska
+Hall County|Nebraska
+Kimball County|Nebraska
+Saline County|Nebraska
+Valley County|Nebraska
+Esmeralda County|Nevada
+Mineral County|Nevada
+Salem County|New Jersey
+Bernalillo County|New Mexico
+Guadalupe County|New Mexico
+Hidalgo County|New Mexico
+Los Alamos County|New Mexico
+Sandoval County|New Mexico
+Valencia County|New Mexico
+Albany County|New York
+Allegany County|New York
+Alamance County|North Carolina
+Alexander County|North Carolina
+Alleghany County|North Carolina
+Caldwell County|North Carolina
+Halifax County|North Carolina
+Cavalier County|North Dakota
+Golden Valley County|North Dakota
+Walsh County|North Dakota
+Allen County|Ohio
+Gallia County|Ohio
+Alfalfa County|Oklahoma
+Coal County|Oklahoma
+Marshall County|Oklahoma
+Malheur County|Oregon
+Wallowa County|Oregon
+Allegheny County|Pennsylvania
+Allendale County|South Carolina
+Calhoun County|South Carolina
+Saluda County|South Carolina
+Buffalo County|South Dakota
+Fall River County|South Dakota
+Marshall County|South Dakota
+Oglala Lakota County|South Dakota
+Walworth County|South Dakota
+DeKalb County|Tennessee
+Lauderdale County|Tennessee
+Marshall County|Tennessee
+Trousdale County|Tennessee
+Caldwell County|Texas
+Calhoun County|Texas
+Callahan County|Texas
+Comal County|Texas
+Dallam County|Texas
+Dallas County|Texas
+Duval County|Texas
+Falls County|Texas
+Galveston County|Texas
+Gonzales County|Texas
+Guadalupe County|Texas
+Hale County|Texas
+Hall County|Texas
+Hidalgo County|Texas
+Kendall County|Texas
+La Salle County|Texas
+Palo Pinto County|Texas
+Randall County|Texas
+Real County|Texas
+Rockwall County|Texas
+Stonewall County|Texas
+Uvalde County|Texas
+Val Verde County|Texas
+Walker County|Texas
+Waller County|Texas
+Zavala County|Texas
+Salt Lake County|Utah
+Caledonia County|Vermont
+Albemarle County|Virginia
+Alleghany County|Virginia
+Halifax County|Virginia
+Alexandria city|Virginia
+Colonial Heights city|Virginia
+Falls Church city|Virginia
+Galax city|Virginia
+Salem city|Virginia
+Clallam County|Washington
+Walla Walla County|Washington
+Calhoun County|West Virginia
+Marshall County|West Virginia
+Mineral County|West Virginia
+Monongalia County|West Virginia
+Raleigh County|West Virginia
+Buffalo County|Wisconsin
+Calumet County|Wisconsin
+Trempealeau County|Wisconsin
+Walworth County|Wisconsin
+Albany County|Wyoming
