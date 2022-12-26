@@ -254,7 +254,7 @@ DROP TABLE registrations;
 CREATE TABLE registrations (
     registration_id text,
     registration_date date,
-    license_id text REFERENCES licenses (license_id) ON DELETE CASCADE
+    license_id text REFERENCES licenses (license_id) ON DELETE CASCADE,
     CONSTRAINT registration_key PRIMARY KEY (registration_id, license_id)
 );
 -- Deleting a row in licenses should also delete all related rows in registrations.

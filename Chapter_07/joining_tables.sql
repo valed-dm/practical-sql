@@ -160,6 +160,7 @@ ORDER BY district_2035.id
 
 
 -- FULL OUTER JOIN
+
 -- When you want to see all rows from both tables in a join, 
 -- regardless of whether any match, use the FULL OUTER JOIN option.
 -- The result gives every row from the left table, including matching rows and blanks for missing rows 
