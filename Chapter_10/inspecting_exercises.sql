@@ -68,6 +68,16 @@ SELECT
 	FROM meat_poultry_egg_establishments
 	WHERE meat_processing AND poultry_processing);
 
-------------------------------------------------------------------------
+--------------------------------------------------------------------------
 SELECT * FROM meat_poultry_egg_establishments;
 SELECT TRUE AND TRUE AS logical_operation;
+--------------------------------------------------------------------------
+
+-- ALTER TABLE meat_poultry_egg_establishments ADD COLUMN egg_product boolean;
+
+SELECT activities, count(*)
+FROM meat_poultry_egg_establishments
+WHERE activities ILIKE '%egg product%' -- AND activities NOT ILIKE '%certification%'
+GROUP BY activities
+ORDER BY count(*) DESC;
+
