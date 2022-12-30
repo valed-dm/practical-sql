@@ -40,7 +40,7 @@ SELECT
     popu_lsa,
 	visits
 FROM pls_fy2018_libraries
-WHERE visits > 250000 AND popu_lsa >= 0
+WHERE visits > 1000000 AND popu_lsa >= 0
 ORDER BY rank() OVER (ORDER BY popu_lsa DESC);
 
 SELECT *
